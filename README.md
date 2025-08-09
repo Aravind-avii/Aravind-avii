@@ -1,41 +1,98 @@
-<h2 align="left">Hi 👋! My name is Aravind </h2>
+[![Aravind-avii](https://github.com/Aravind-avii/Aravind-avii/assets/128951002/b78deadd-8072-4c05-bff7-bb6ee781674e)](https://Aravind-avii.in/)
+<hr>
 
-###
+## ABOUT ME : 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aravind-avii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aravind-avii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Hello!, My name is `B.Aravind`.
 
-###
+I'm a passionate code enthusiast interested in `open-source development` and strongly committed to `software engineering`. I'm always excited to explore new technologies and collaborate on projects that make a positive impact.
 
-###
+I rest only when my code works, I code till I finish my game, I play my games till I study, I study till I sleep. <hr>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+[![Aravind-avii](https://github.com/Aravind-avii/Aravind-avii/assets/128951002/5deb137e-88c6-4288-b087-75f557f649dc)](https://Aravind-avii.in/)
 
-###
+<hr>
+## TECH STACK :
 
-<div align="left">
-  <a href="mailto:aravindb2104@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=aravindb2104@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/bandaru-aravind-690557253" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+<table>
+    <tr>
+        <th>Category</th>
+        <th>Tech</th>
+    </tr>
+    <tr>
+        <td>LANGUAGES</td>
+        <td>
+            <a href="https://www.python.org"><img
+                    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
+                    alt="Python" /></a>
+            <a href="https://www.cprogramming.com/"><img
+                    src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
+                    alt="C" /></a>
+            <a href="https://html5.org/"><img
+                    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
+                    alt="HTML5" /></a>
+            <a href="https://www.css3.com/"><img
+                    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
+                    alt="CSS3" /></a>
+            <a href="https://www.javascript.com/"><img
+                    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"
+                    alt="JavaScript" /></a>
+            <a href="https://www.java.com/en/"><img
+                    src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white"
+                    alt="Java" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>DATABASES</td>
+        <td>
+            <a href="https://www.mysql.com/"><img
+                    src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
+                    alt="MySQL" /></a>
+            <a href="https://www.mongodb.com/"><img
+                    src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"
+                    alt="MongoDB" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>HOSTING</td>
+        <td>
+            <a href="https://azure.microsoft.com/en-in"><img
+                    src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"
+                    alt="Microsoft Azure" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>DESIGN</td>
+        <td>
+            <a href="https://www.canva.com/"><img
+                    src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white"
+                    alt="Canva" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Tools & Frameworks</td>
+        <td>
+            <a href="https://pandas.pydata.org/"><img
+                    src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"
+                    alt="Pandas" /></a>
+            <a href="https://numpy.org/"><img
+                    src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"
+                    alt="NumPy" /></a>
+            <a href="https://www.tensorflow.org/"><img 
+                    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" 
+                    alt="TensorFlow" /></a>
+            <a href="https://opencv.org/"><img 
+                    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" 
+                    alt="OpenCV" /></a>
+        </td>
+    </tr>
+</table><hr>
 
+## LETS CONNECT! :
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravind-avii)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-bandaru-690557253)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_aravind_avii_?igsh=emRmMjYxd3V0cGQ1) <hr>
 
+## GITHUB STATS :
+
+![](https://github-profile-trophy.vercel.app/?username=Aravind-avii&theme=monokai) <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-avii&theme=tokyonight) <br><br>
+[![](https://visitcount.itsvg.in/api?id=nehal-khan-29&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/Aravind-avii)
